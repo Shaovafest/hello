@@ -1,2 +1,1 @@
-# hello
-hello demo repo
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Shaovafest/hello/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Shaovafest/hello/tree/main)
